@@ -5,15 +5,15 @@
 Start with a header section that includes the following basic details:
 
 ```markdown
-# [App Title]
-- **Developer**: [Student Name]
-- **Student Number**: [Your Student Number]
-- **Group**: [Your Group Name or Number]
+# [personal Finance Tracker]
+- **Developer**: [Lwazi Gumede ]
+- **Student Number**: [ST10473488]
+- **Group**: [3]
 - **Course**: [Course Name]
-- **Subject**: [Subject Name]
+- **Subject**: [IMAD5112]
 
 ## Links
-- **GitHub Repository**: [Repository URL]
+- **GitHub Repository**: [https://github.com/ST10473488/personalFinanceTracker.git]
 - **YouTube Video**: [YouTube Video Link]
 ```
 
@@ -29,7 +29,7 @@ Why:
 ```markdown
 ## Project Overview
 
-The **[App Title]** is a mobile application developed as part of an assignment in the [Course Name] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [briefly describe the purpose of the app, e.g., provide a task management system, display weather forecasts, etc.].
+The **[personalFinanceTracker]** is a mobile application developed as part of an assignment in the [IMAD5112] subject. This application was created using **Kotlin** and **Android Studio**. The app's primary purpose is to [to assist user to accesses information about bannk account and application guiding pupil on how to mannage their finance].
 
 The app was developed to meet the requirements of the assignment, which includes creating a functional mobile app and utilizing GitHub for version control and CI/CD automation using GitHub Actions.
 ```
@@ -47,12 +47,12 @@ Why:
 ## Purpose and Features
 
 ### Purpose:
-The main goal of this app is to [explain the app’s functionality]. 
+The main goal of this app is to [Assist user on tracking their bank balance]. 
 
 ### Key Features:
-- Feature 1: [Description of a feature, e.g., "User login functionality"]
-- Feature 2: [Description of another feature, e.g., "Displaying weather data based on location"]
-- Feature 3: [Optional, another feature, e.g., "Push notifications for reminders"]
+- Feature 1: [it runs perfect on and allows pupil to enter their info and get feedback]
+- Feature 2: [it allows user to keep up with their balance]
+- Feature 3: [IT will always send you feedback on whether expences are to low or to high]
 
 These features aim to provide [what the app aims to achieve, e.g., an easy-to-use platform for managing tasks or organizing personal information].
 ```
@@ -69,7 +69,7 @@ Why:
 ```markdown
 ## Design Considerations
 
-The design of the **[App Title]** was based on the following key considerations:
+The design of the **[personal Finance Tracker]** was based on the following key considerations:
 
 1. **User Experience (UX)**: The app was designed with the goal of providing an intuitive and easy-to-navigate user interface, ensuring a seamless user experience.
    
@@ -140,11 +140,11 @@ Why:
 
 During the development of this project, I encountered several challenges, including:
 
-1. **Challenge 1**: [Briefly describe a challenge you faced, e.g., "Implementing a complex feature like the login system."]
-   - **Solution**: [How you solved the challenge, e.g., "I researched Firebase authentication and successfully integrated it into the app."]
+1. **Challenge 1**: Fixing errors inside the code
+   - **Solution**: [By fixing all the erreos that didnt allow me to run the app]
    
-2. **Challenge 2**: [Describe another challenge, e.g., "Debugging issues related to Gradle builds."]
-   - **Solution**: [How you solved the challenge.]
+2. **Challenge 2**: [Making the buttons on code actualy work]
+   - **Solution**: [May have asked AI so show me how do i fix this problem.]
 
 From these challenges, I learned important lessons in debugging, using version control, and automating build processes with GitHub Actions.
 ```
@@ -163,9 +163,9 @@ Why:
 
 While the current version of the app provides the core functionality, there are several features that could be added in the future, including:
 
-1. **Feature 1**: [Description, e.g., "Allowing users to set up reminders or notifications."]
+1. **Feature 1**: [All ways make sure that there are no errors in the code cause if so the code wont work"]
 2. **Feature 2**: [Description, e.g., "Integrating with a cloud database for storing user data."]
-3. **Feature 3**: [Description, e.g., "Adding a dark mode option for better user experience."]
+3. **Feature 3**: [Adding a brigher screen sometimes wont be safe for your eyes suggest you use a dark mode"]
 
 These enhancements would improve the app’s usability and make it even more versatile for end-users.
 ```
@@ -182,7 +182,7 @@ Why:
 ```markdown
 ## References
 
-1. [Reference 1: E.g., any books, articles, or online resources you used during development.]
+1. [Reference 1: E.g., any books, articles, or online resources you used during development]
 2. [Reference 2: Any relevant papers, documentation, or tutorials.]
 ```
 
